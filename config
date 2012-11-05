@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = false
+[remote "vim"]
+	url = git://github.com/cooltrane/vim.git
+	fetch = +refs/heads/*:refs/remotes/vim/*
